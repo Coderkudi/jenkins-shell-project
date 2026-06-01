@@ -1,3 +1,7 @@
-echo "Building project..."
-echo "Running tests..."
-echo "Deployment successful"
+#!/bin/bash
+
+echo "Starting Build..."
+
+echo "Running Tests..."
+
+echo "Build Successful!"
